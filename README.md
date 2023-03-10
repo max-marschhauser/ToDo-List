@@ -1,4 +1,4 @@
-To-Do list built using JavaScript and HTML
+A To-Do list built using JavaScript and HTML.
 
 Very simple JS to-do list built for fun.
 
