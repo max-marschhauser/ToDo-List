@@ -1,0 +1,22 @@
+body {
+	box-sizing: border-box;
+	background-color: lightskyblue;
+	display: grid;
+	place-items: center;
+}
+
+#form {
+	margin-top: 20rem;
+}
+
+#input {
+	width: 25rem;
+	height: 2.5rem;
+	font-size: 2rem;
+}
+
+#list {
+	font-size: 1.5rem;
+	font-weight: 600;
+	padding-top: 1rem;
+}
